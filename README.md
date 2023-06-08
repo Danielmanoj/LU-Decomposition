@@ -50,7 +50,13 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition]()
+## To find the L and U matrix
+
+![image](https://github.com/Danielmanoj/LU-Decomposition/assets/69635071/ff16d25a-243e-4c68-b27d-f16014f129a9)
+
+## To find the LU Decomposition of a matrix
+
+![image](https://github.com/Danielmanoj/LU-Decomposition/assets/69635071/2f06c2ab-f756-4783-9323-d5b5d14cb61b)
 
 
 ## Result:
